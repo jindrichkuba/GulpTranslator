@@ -1,7 +1,7 @@
 var gulp = require('gulp'),
     replacebatch = require('gulp-batch-replace'),
     replace = require('gulp-replace'),
-    htmlmin = require('gulp-htmlmin');
+    htmlmin = require('gulp-htmlmin'),
     csvParser = require('gulp-csv-to-json-array'),
     browserSync = require('browser-sync').create();
 
