@@ -29,4 +29,4 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
 $ gulp</code></pre>
 
 # Donate
-https://www.paypal.me/JKuba/
+<a href="https://www.paypal.me/JKuba/" target="_blank">paypal.me</a>
