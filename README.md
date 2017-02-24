@@ -27,3 +27,6 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
 # Launch
 <pre><code>$ npm i
 $ gulp</code></pre>
+
+# Donate
+https://www.paypal.me/JKuba/
