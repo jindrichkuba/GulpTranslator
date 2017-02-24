@@ -17,7 +17,7 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
 
 # Usage
 1) Convert your word to xls by <a href="http://www.watermark-images.com/convert-word-to-excel.aspx" target="_blank">convert-word-to-excel</a> <br />
-2) Save your xls to translate.csv <br />
+2) Save your xls to translate.csv with Open Office  <br />
 3) Put your index.html to base path <br />
 4) Run gulp<br />
 5) Your translate is in build 
