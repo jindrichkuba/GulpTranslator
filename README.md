@@ -18,7 +18,7 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
 # Usage
 1) Convert your word to xls by <a href="http://www.watermark-images.com/convert-word-to-excel.aspx" target="_blank">convert-word-to-excel</a> <br />
 <img src="https://raw.githubusercontent.com/jindrichkuba/GulpTranslator/master/example/word.png" width="600" style="max-width:100%;"> <br />
-2) Save your xls to translate.csv with Open Office  <br />
+2) Save your xls to translate.csv with <a href="https://www.openoffice.org/download/index.html" target="_blank">Open Office</a>  <br />
 <img src="https://raw.githubusercontent.com/jindrichkuba/GulpTranslator/master/example/open_office.png" width="600" style="max-width:100%;"> <br />
 3) Put your index.html to base path <br />
 4) Run gulp<br />
