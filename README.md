@@ -20,9 +20,9 @@ You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
 <img src="https://raw.githubusercontent.com/jindrichkuba/GulpTranslator/master/example/word.png" width="600" style="max-width:100%;"> <br />
 2) Save your xls to translate.csv with <a href="https://www.openoffice.org/download/index.html" target="_blank">Open Office</a>  <br />
 <img src="https://raw.githubusercontent.com/jindrichkuba/GulpTranslator/master/example/open_office.png" width="600" style="max-width:100%;"> <br />
-3) Put your index.html to base path <br />
+3) Put your index.html to the base path <br />
 4) Run gulp<br />
-5) Your translate is in build 
+5) Your translate is in the build 
 
 # Launch
 <pre><code>$ npm i
