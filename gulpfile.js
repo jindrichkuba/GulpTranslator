@@ -19,7 +19,7 @@ gulp.task('csv', function(cb) {
 });
 
 gulp.task('json', ['csv'], function() {
-  return gulp.src('preklad.json', { base: './' })
+  return gulp.src('translate.json', { base: './' })
      .pipe(htmlmin({collapseWhitespace: true}))
      .pipe(replace('["','[">'))
      .pipe(replace('","','<",">'))
@@ -27,7 +27,7 @@ gulp.task('json', ['csv'], function() {
      .pipe(gulp.dest('./'));
 });
 
-var replaceThis = require('./preklad.json');
+var replaceThis = require('./translate.json');
 
 gulp.task('html', ['json'], function(){
   return gulp.src('*.html')
