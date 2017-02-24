@@ -1,0 +1,24 @@
+{
+  "name": "gulp",
+  "version": "1.0.0",
+  "description": "gulp",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-batch-replace": "0.0.0",
+    "gulp-csv-to-json-array": "^1.0.4",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-replace": "^0.5.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:indigocz/GulpTranslator.git"
+  },
+  "author": "Jindrich Kuba",
+  "license": "ISC",
+  "homepage": "https://gitlab.com/indigocz/GulpTranslator"
+}
