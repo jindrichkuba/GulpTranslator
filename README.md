@@ -10,7 +10,7 @@ Gulp-csv-to-json-array<br />
 Browser-sync
 
 # installation 
-You need to install <a href="http://nodejs.org" target="_blank">Node.js</a>
+You need to install <a href="http://nodejs.org" target="_blank">Node.js</a> and <a href="http://gulpjs.com/" target="_blank">Gulp.js</a>
 
 # Downloads
 <pre><code>$ git clone git@github.com:jindrichkuba/GulpTranslator.git</code></pre>
